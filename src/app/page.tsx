@@ -164,7 +164,7 @@ export default function Home() {
         )}
       </main>
       <footer className="text-center py-4 text-sm text-muted-foreground">
-        <p>Powered by AI. Built with Next.js and Firebase.</p>
+        <p>Powered by AI. Built with Next.js, Genkit and TypeScript.</p>
       </footer>
     </div>
   );
